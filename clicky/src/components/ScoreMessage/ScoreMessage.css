@@ -1,0 +1,9 @@
+.score .correct {
+    animation: 1s correct;
+  }
+  
+  .score .incorrect {
+    animation: 1s incorrect;
+  }
+  
+  

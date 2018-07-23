@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Cara Maria",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/caramaria1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Johnny Bananas",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/bananas1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Veronica",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/veronica1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Zach",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/zach.jpg?quality=0.85&width=1148&height=1148&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Kailah",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/kailah1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Marie",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/marie1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Shane",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/shane.jpg?quality=0.85&width=1148&height=1148&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Nicole",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/nicolez.jpg?quality=0.85&width=1148&height=1148&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Leroy",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/leroy1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Devin",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/devin1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Cory",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/cory1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "CT",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/ct1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Jenna",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/promposal/videos/jenna2.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Camila",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/camila1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Aneesa",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/aneesa1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Darrell",
+    "image": "http://mtv.mtvnimages.com/arc/images/shows/challenge/videos/darrell1.jpg?quality=0.85&width=1044&height=1044&crop=true",
+    "clicked": false
+  }
+]
+
